@@ -4,7 +4,7 @@ Welcome to Bitte, here you will find tools to get you started with AI + Bklockch
 - [Docs](https://docs.bitte.ai/): Bitte Documentation
 - [Website](https://bitte.ai/): Bitte Website
 - [Wallet](https://wallet.bitte.ai): AI Powered multichain wallet
-- [Templates](https://github.com/mintbase/mintbase-js): The core JS library that we use for every transaction on mintbase.io
+- [Templates](https://templates.bitte.ai): The core JS library that we use for every transaction on mintbase.io
 
 ## Mintbase Repos  
 We are moving some repos over from Mintb
